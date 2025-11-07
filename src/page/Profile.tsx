@@ -7,7 +7,7 @@ function Profile(){
         <Card>
             <Flex direction="column" gap="4">
                 <Flex align="center" gap="4">
-                    <Avatar size="8" radius='full' fallback="SP" color='blue' src='/public/profile/profilepic2.jpg'/>
+                    <Avatar size="8" radius='full' fallback="SP" color='blue' src='https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/543376031_4052647341660003_2426749709556848043_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFU8PNE9CgggR4VUxoVJ2c8pgygVJLLmICmDKBUksuYgKcPf9GIBmt6xeEUNSvP7LbyImBGoZzE5jnPpVrBJFxE&_nc_ohc=0ZbMKwQ92nQQ7kNvwHHzpJq&_nc_oc=Adlr7EbcN09Tus-VKDaqtxqudxaJZ2EpL9-qhA7z4xSFOrieomovye5fNhYjT4H8i1Umv8w0Jc1N8MgaAnMx-6Dc&_nc_zt=23&_nc_ht=scontent.fbkk12-1.fna&_nc_gid=MO70-0TEcOBylHxbiA-qHA&oh=00_AfiLDlpsEPRk9_QS91rOq6663p7RmbWHRKgOoflDinuvnQ&oe=6913FFD7'/>
                         
                     
                     <Box>
