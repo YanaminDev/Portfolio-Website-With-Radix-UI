@@ -1,13 +1,11 @@
 import {
   Box,
   Container,
-  Heading,
   Text,
   Card,
   Flex,
   Inset,
   Strong,
-  AspectRatio,
   Avatar,
   Link,
   Button,

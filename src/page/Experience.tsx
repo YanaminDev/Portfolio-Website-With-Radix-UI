@@ -1,15 +1,4 @@
-import {
-  Box,
-  Container,
-  Heading,
-  Text,
-  Card,
-  Flex,
-  Avatar,
-  Badge,
-  Separator,
-  Progress,
-} from "@radix-ui/themes";
+
 
 import CardSkill from '../components/CardSkill'
 

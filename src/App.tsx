@@ -1,5 +1,5 @@
 import './App.css'
-import {Box , Container , Heading , Text , Card ,Flex , Avatar , Badge , Separator} from '@radix-ui/themes'
+import {Box} from '@radix-ui/themes'
 import Navigaton from './components/Navigation'
 import Home from './page/Home'
 import Profile from './page/Profile'
