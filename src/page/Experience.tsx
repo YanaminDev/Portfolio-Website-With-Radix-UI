@@ -1,7 +1,6 @@
 
 
 import CardSkill from '../components/CardSkill'
-import '../ex.css'
 
 function Experience() {
   return (
