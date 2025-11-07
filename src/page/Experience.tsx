@@ -6,8 +6,8 @@ import CardSkill from '../components/CardSkill'
 function Experience() {
   return (
     
-    <div className="bg-[#473472] h-full w-full ">
-        <div className="flex flex-row justify-center flex-wrap gap-[20px]">
+    <div className="bg-[#473472] h-screen w-full ">
+        <div className="flex flex-row justify-center  2xl:items-center  flex-wrap gap-[20px]">
                 
                 <CardSkill imgsrc='https://i.pinimg.com/474x/fe/57/10/fe571020f2e476bca20e1ae6441569ec.jpg' name='HTML CSS' score={90}></CardSkill>
 
@@ -29,13 +29,7 @@ function Experience() {
 
             
         </div>
-        
-
-       
-            
-        
-        
-            
+    
     </div>
   );
 }
